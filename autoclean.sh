@@ -1,3 +1,8 @@
+#################################
+#autoclean.sh
+#create for 20180119 CDX contest
+#please give me root privileges
+#################################
 while [ true ]
 do
 	kill $(netstat -anop | grep -P '\d+\.\d+\.\d+\.\d+' \
