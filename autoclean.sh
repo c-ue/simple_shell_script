@@ -1,3 +1,4 @@
+#!/bin/sh
 #################################
 #script name: autoclean.sh
 #privilege: root
